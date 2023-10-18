@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Productos a la Venta</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
     <header>
@@ -15,8 +15,8 @@
             <div class="producto-contenedor">
                 <img src="img/cama.jpg" alt="Producto 2">
                 <div class="descripcion-precio">
-                    <h2>Producto 2</h2>
-                    <p>Descripción del Producto 2.</p>
+                    <h2>CUCHA CAMA</h2>
+                    <p>3 CUOTAS SIN INTERES.</p>
                     <p>Precio: $1000</p>
                     <button>Agregar al carrito</button>
                 </div>
@@ -29,8 +29,8 @@
             <div class="producto-contenedor">
                 <img src="img/img.jpg" alt="Producto 2">
                 <div class="descripcion-precio">
-                    <h2>Producto 2</h2>
-                    <p>Descripción del Producto 2.</p>
+                    <h2>CUCHA GATITO</h2>
+                    <p>3 CUOTAS SIN INTERES.</p>
                     <p>Precio: $1000</p>
                     <button>Agregar al carrito</button>
                 </div>
@@ -56,7 +56,20 @@
         <!-- Producto 6 -->
         <div class="producto">
             <div class="producto-contenedor">
-                <img src="img/cucha.jpg" alt="Producto 6">
+                <img src="img/perritoo.jpg" alt="Producto 6">
+                <div class="descripcion-precio">
+                    <h2>CUCHA HUESO</h2>
+                    <p>3 CUOTAS SIN INTERES.</p>
+                    <p>Precio: $1000</p>
+                    <button>Agregar al carrito</button>
+                </div>
+            </div>
+        </div>
+        
+         <!-- Producto 6 -->
+         <div class="producto">
+            <div class="producto-contenedor">
+                <img src="img/perrito.jpg" alt="Producto 6">
                 <div class="descripcion-precio">
                     <h2>Producto 6</h2>
                     <p>Descripción del Producto 6.</p>
@@ -68,9 +81,11 @@
         
      
     </main>
-    <footer>
-        <p><a href="index.html">Volver a la Página Principal</a></p>
-       
-    </footer>
+    <footer class="footer-container">
+        <p>
+            <a href="index.php" class="volver-btn">Volver a la Página Principal</a>
+        </p>
+    |</footer>
+
 </body>
 </html>

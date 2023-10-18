@@ -9,10 +9,8 @@
     </header>
     <main>
         <p>¡Descubre nuestros productos!</p>
-        <a href="productos.html"><button>Ver Productos</button></a>
+        <a href="cuchas.php"><button>Ver Productos</button></a>
     </main>
-    <footer>
-        <p>Derechos de autor © 2023 Tu Tienda de Productos</p>
-    </footer>
+ 
 </body>
 </html>
