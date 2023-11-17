@@ -1,0 +1,47 @@
+.comentarios-container .comentarios p {
+    background-color: #f0f0f0; /* Color de fondo del comentario */
+    border: 1px solid #a17878; /* Borde del comentario */
+    padding: 10px; /* Espaciado interno del comentario */
+    margin: 10px 0; /* Margen entre comentarios */
+    border-radius: 10px; /* Borde redondeado del comentario */
+    max-width: 70%; /* Ancho máximo del comentario (ajusta según tus preferencias) */
+    margin-left: auto; /* Centra los comentarios horizontalmente en la pantalla */
+    margin-right: auto; /* Centra los comentarios horizontalmente en la pantalla */
+    margin-top: 25px; /* Agrega espacio encima del botón (ajusta según tus preferencias) */
+
+}
+
+/* Estilo para el formulario de comentarios */
+#comentario-form {
+    margin-left: auto; /* Mueve el formulario hacia la derecha */
+    width: 85%; /* Puedes ajustar el ancho según tus preferencias */
+}
+
+/* Estilo para el botón "Agregar" */
+#comentario-form button {
+    background-color: #007BFF; /* Color de fondo del botón */
+    color: #fff; /* Color del texto del botón */
+    border: 1px solid #007BFF; /* Borde del botón */
+    padding: 8px 18px; /* Espaciado interno del botón (ajusta según tus preferencias) */
+    border-radius: 5px; /* Borde redondeado del botón */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    display: block; /* Establece el botón como bloque */
+    margin-top: 5px; /* Agrega espacio encima del botón (ajusta según tus preferencias) */
+
+}
+
+#comentario-form button:hover {
+    background-color: #0056b3; /* Cambia el color de fondo al pasar el cursor sobre el botón */
+}
+
+#comentario {
+    width: 400px; /* Ancho del campo en píxeles */
+    height: 70px; /* Alto del campo en píxeles */
+    border: 1px solid #000000; /* Borde del campo */
+    padding: 10px; /* Espaciado interno */
+    border-radius: 5px; /* Borde redondeado */
+    display: block; /* Establece el campo de comentario como bloque */
+    margin-top: 30px; /* Agrega espacio encima del botón (ajusta según tus preferencias) */
+
+}
+

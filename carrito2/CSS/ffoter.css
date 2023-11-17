@@ -1,0 +1,59 @@
+.footer {
+    background-color: #000000;
+    color: #eedcc8; 
+}
+
+.seguinos {
+    color: #c78f4f; /* Cambia "blue" al color que desees */
+    margin-bottom: 35px;
+}
+ul{
+    color:#eedcc8;
+
+}
+
+ul li {
+        margin-bottom: 10px;
+    }
+
+    .contact-list {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .contact-list img {
+        margin-right: 10px;
+    }
+
+
+.espacio{
+    padding: 20px;
+}  
+hr{
+    color: #eedcc8;
+}
+
+.footer a {
+    text-decoration: none;
+    color:#eedcc8
+    
+} 
+
+.footer a:hover{
+    color: #af7533;
+}
+
+
+
+.col-lg-6 ul h2 {
+    color: #c78f4f;
+}
+
+.col-lg-6 + .col-lg-6 ul h2 {
+    color: #c78f4f;
+}
+
+.contact-list h4{
+    font-size: 25px;
+}
